@@ -67,7 +67,7 @@ After making predictions, the system provides a visual representation of the cla
 📌 **Predicted Class:** Early Blight  
 📌 **Confidence Score:** 95%  
 📌 **Visualization:** Heatmap overlay for affected areas  
-## Inserting Value and Predicted Value
+## Predicted Value
 
 <p align="center">
   <img src="https://github.com/SinghPriya5/SinghPriya5-Potato-Disease-Classification-Using-CNN/blob/main/Potato%20Disease.png" alt="Inserting Value" width="800" height="800">
